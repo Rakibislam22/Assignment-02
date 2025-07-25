@@ -29,5 +29,9 @@
   animation-timing-function: linear; 
 }
 
+.shadow-n {
+  filter: drop-shadow(-4px 10px 4px rgba(0, 0, 0, 0.25));
+}
+
 
 
